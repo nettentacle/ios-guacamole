@@ -332,3 +332,5 @@ userland side possible. The GPU roadmap references
 AdrenoPM4, AdrenoFirmware, ArmSmmu4K) and Mesa's
 [freedreno/Turnip](https://gitlab.freedesktop.org/mesa/mesa) drivers.
 iOS itself is Apple's and is not distributed here.
+
+<!-- register workflows -->
